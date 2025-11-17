@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/khushi-satav/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/khushi-satav/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/khushi-satav/leetcode/tree/master/0792-binary-search) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/khushi-satav/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/khushi-satav/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/khushi-satav/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/khushi-satav/leetcode/tree/master/0326-power-of-three) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/khushi-satav/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/khushi-satav/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
