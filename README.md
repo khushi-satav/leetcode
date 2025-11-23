@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/khushi-satav/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/khushi-satav/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/khushi-satav/leetcode/tree/master/0792-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/khushi-satav/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/khushi-satav/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/khushi-satav/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/khushi-satav/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/khushi-satav/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/khushi-satav/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/khushi-satav/leetcode/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/khushi-satav/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/khushi-satav/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/khushi-satav/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/khushi-satav/leetcode/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/khushi-satav/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/khushi-satav/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
