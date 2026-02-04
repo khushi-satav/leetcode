@@ -1,21 +1,27 @@
 class Solution {
-    public void merge(int[] A, int m, int[] B, int n) {
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
 
-        int idx = m + n - 1; // final index
-        int i = m - 1;        // last valid element of A
-        int j = n - 1;        // last element of B
+        int i = m - 1;      // nums1 ke last element ka index
+        int j = n - 1;      // nums2 ke last element ka index
+        int k = m + n - 1;  // nums1 ka last index
 
         while (i >= 0 && j >= 0) {
-            if (A[i] >= B[j]) {
-                A[idx--] = A[i--];
+            if (nums1[i] > nums2[j]) {
+                nums1[k] = nums1[i];
+                i--;
             } else {
-                A[idx--] = B[j--];
+                nums1[k] = nums2[j];
+                j--;
             }
+            k--;
         }
 
-        // only B may have remaining elements
+        // agar nums2 me elements bache ho
         while (j >= 0) {
-            A[idx--] = B[j--];
+            nums1[k] = nums2[j];
+            j--;
+            k--;
         }
     }
 }
+
