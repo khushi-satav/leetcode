@@ -1,19 +1,22 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        if (prices.length == 1) {
-            return 0;
-        }
+        int n = prices.length;
+        int max_profit = 0;
+        int buy_price = prices[0];
         
-        int profit = 0;
-        int left = 0;  // buy pointer
-        
-        for (int right = 0; right < prices.length; right++) {
-            if (prices[left] < prices[right]) {
-                profit = Math.max(profit, prices[right] - prices[left]);
-            } else {
-                left = right; // move buy pointer
+        for(int i = 1; i < n; i++){
+            
+            int curr_profit = prices[i] - buy_price;
+            
+            if(curr_profit > max_profit){
+                max_profit = curr_profit;
+            }
+            
+            if(prices[i] < buy_price){
+                buy_price = prices[i];
             }
         }
-        return profit;
+        
+        return max_profit;
     }
 }
