@@ -1,24 +1,18 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int first = findBound(nums, target, true);
-        int last = findBound(nums, target, false);
-        return new int[]{first, last};
-    }
+        int[] arr = new int[2];
+        arr[0] = arr[1] = -1;
 
-    private int findBound(int[] nums, int target, boolean isFirst) {
-        int st = 0, end = nums.length - 1, ans = -1;
-        while (st <= end) {
-            int mid = st + (end - st) / 2;
-            if (nums[mid] == target) {
-                ans = mid;
-                if (isFirst) end = mid - 1;
-                else st = mid + 1;
-            } else if (nums[mid] < target) {
-                st = mid + 1;
-            } else {
-                end = mid - 1;
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] == target) {
+
+                if (arr[0] == -1) {
+                    arr[0] = i;  // first occurrence
+                }
+
+                arr[1] = i;  // keep updating last occurrence
             }
         }
-        return ans;
+        return arr;
     }
 }
