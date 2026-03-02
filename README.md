@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/khushi-satav/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/khushi-satav/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/khushi-satav/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/khushi-satav/leetcode/tree/master/0268-missing-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/khushi-satav/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/khushi-satav/leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/khushi-satav/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/khushi-satav/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/khushi-satav/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/khushi-satav/leetcode/tree/master/0189-rotate-array) |
