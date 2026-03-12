@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/khushi-satav/leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/khushi-satav/leetcode/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/khushi-satav/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/khushi-satav/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/khushi-satav/leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Greedy
@@ -246,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/khushi-satav/leetcode/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/khushi-satav/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
