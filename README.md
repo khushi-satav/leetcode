@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/khushi-satav/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0742-to-lower-case](https://github.com/khushi-satav/leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/khushi-satav/leetcode/tree/master/0812-rotate-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/khushi-satav/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/khushi-satav/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/khushi-satav/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/khushi-satav/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/khushi-satav/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/khushi-satav/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/khushi-satav/leetcode/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/khushi-satav/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/khushi-satav/leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Greedy
 |  |
