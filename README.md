@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/khushi-satav/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/khushi-satav/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/khushi-satav/leetcode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/khushi-satav/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/khushi-satav/leetcode/tree/master/0792-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/khushi-satav/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/khushi-satav/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/khushi-satav/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/khushi-satav/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/khushi-satav/leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/khushi-satav/leetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/khushi-satav/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/khushi-satav/leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Greedy
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/khushi-satav/leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/khushi-satav/leetcode/tree/master/0739-daily-temperatures) |
 ## Backtracking
 |  |
 | ------- |
