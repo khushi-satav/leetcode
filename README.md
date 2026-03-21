@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/khushi-satav/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/khushi-satav/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/khushi-satav/leetcode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/khushi-satav/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/khushi-satav/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/khushi-satav/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushi-satav/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/khushi-satav/leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/khushi-satav/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/khushi-satav/leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/khushi-satav/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/khushi-satav/leetcode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/khushi-satav/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/khushi-satav/leetcode/tree/master/0189-rotate-array) |
