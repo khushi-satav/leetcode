@@ -7,6 +7,5 @@ class Solution {
         int actualsum=(nums.length*(nums.length+1)/2);
         int missingnum=actualsum-sum;
         return missingnum;
-        
     }
 }
