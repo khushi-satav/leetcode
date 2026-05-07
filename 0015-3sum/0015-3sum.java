@@ -2,7 +2,7 @@ import java.util.*;
 
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        List<List<Integer>> result = new ArrayList<>();
+        List<List<Integer>> res = new ArrayList<>();
         
         Arrays.sort(nums);   // Step 1: Sort
         
@@ -18,7 +18,7 @@ class Solution {
                 int sum = nums[i] + nums[left] + nums[right];
                 
                 if (sum == 0) {
-                    result.add(Arrays.asList(nums[i], nums[left], nums[right]));
+                    res.add(Arrays.asList(nums[i], nums[left], nums[right]));
                     
                     // Skip duplicates
                     while (left < right && nums[left] == nums[left + 1]) left++;
@@ -36,6 +36,6 @@ class Solution {
             }
         }
         
-        return result;
+        return res;
     }
 }
