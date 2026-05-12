@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/khushi-satav/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/khushi-satav/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/khushi-satav/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/khushi-satav/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/khushi-satav/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/khushi-satav/leetcode/tree/master/0792-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/khushi-satav/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/khushi-satav/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/khushi-satav/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/khushi-satav/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/khushi-satav/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/khushi-satav/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/khushi-satav/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Divide and Conquer
