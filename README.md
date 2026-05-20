@@ -346,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/khushi-satav/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/khushi-satav/leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
