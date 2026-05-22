@@ -1,19 +1,19 @@
-import java.util.HashMap;
-
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        HashMap<Integer, Integer> hm = new HashMap<>();
+        
+        int[] arr = new int[2];
 
-        for (int i = 0; i < nums.length; i++) {
-            int req_num = target - nums[i];
+        for(int i = 0; i < nums.length; i++) {
+            for(int j = i + 1; j < nums.length; j++) {
 
-            if (hm.containsKey(req_num)) {   // ✅ K capital
-                return new int[]{hm.get(req_num), i};  // ✅ semicolon fix
+                if(nums[i] + nums[j] == target) {
+                    arr[0] = i;
+                    arr[1] = j;
+                    return arr;
+                }
             }
-
-            hm.put(nums[i], i);  // ✅ semicolon add
         }
 
-        return new int[]{}; // better than null
+        return arr;
     }
 }
