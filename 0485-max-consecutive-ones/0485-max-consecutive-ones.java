@@ -10,7 +10,6 @@ class Solution {
             curr_count=0;
         }
        }
-        return max_count;
-
+       return max_count;
     }
 }
