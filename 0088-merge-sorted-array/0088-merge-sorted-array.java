@@ -5,22 +5,15 @@ class Solution {
         int j = n - 1;      // nums2 ke last element ka index
         int k = m + n - 1;  // nums1 ka last index
 
-        while (i >= 0 && j >= 0) {
-            if (nums1[i] > nums2[j]) {
-                nums1[k] = nums1[i];
+        while(j>=0){
+            if(i>=0 && nums1[i]>nums2[j]){
+                nums1[k]=nums1[i];
+                k--;
                 i--;
-            } else {
-                nums1[k] = nums2[j];
-                j--;
+            }else{
+                nums1[k]=nums2[j];
+                k--;j--;
             }
-            k--;
-        }
-
-        // agar nums2 me elements bache ho
-        while (j >= 0) {
-            nums1[k] = nums2[j];
-            j--;
-            k--;
         }
     }
 }
