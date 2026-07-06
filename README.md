@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/khushi-satav/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/khushi-satav/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/khushi-satav/leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/khushi-satav/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/khushi-satav/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/khushi-satav/leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/khushi-satav/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -396,4 +397,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/khushi-satav/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/khushi-satav/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/khushi-satav/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/khushi-satav/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
