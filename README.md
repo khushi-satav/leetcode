@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/khushi-satav/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/khushi-satav/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/khushi-satav/leetcode/tree/master/0326-power-of-three) |
+| [0441-arranging-coins](https://github.com/khushi-satav/leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/khushi-satav/leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/khushi-satav/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/khushi-satav/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/khushi-satav/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/khushi-satav/leetcode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/khushi-satav/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/khushi-satav/leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/khushi-satav/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/khushi-satav/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/khushi-satav/leetcode/tree/master/0713-subarray-product-less-than-k) |
