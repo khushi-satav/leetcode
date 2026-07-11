@@ -9,6 +9,8 @@ class Solution {
         for (int right = 0; right < s.length(); right++) {
 
             while (charSet.contains(s.charAt(right))) {
+
+
                 charSet.remove(s.charAt(left));
                 left++;
             }
