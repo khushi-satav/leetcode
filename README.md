@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/khushi-satav/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/khushi-satav/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/khushi-satav/leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/khushi-satav/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/khushi-satav/leetcode/tree/master/0268-missing-number) |
 | [2595-number-of-even-and-odd-bits](https://github.com/khushi-satav/leetcode/tree/master/2595-number-of-even-and-odd-bits) |
 ## Hash Table
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/khushi-satav/leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/khushi-satav/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/khushi-satav/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/khushi-satav/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/khushi-satav/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/khushi-satav/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/khushi-satav/leetcode/tree/master/0326-power-of-three) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/khushi-satav/leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/khushi-satav/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/khushi-satav/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/khushi-satav/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/khushi-satav/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/khushi-satav/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/khushi-satav/leetcode/tree/master/0509-fibonacci-number) |
