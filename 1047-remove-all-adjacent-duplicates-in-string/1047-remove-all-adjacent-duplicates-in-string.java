@@ -1,22 +1,18 @@
-import java.util.*;
-
 class Solution {
     public String removeDuplicates(String s) {
-        Stack<Character> st = new Stack<>();
+
+        StringBuilder stack = new StringBuilder();
 
         for (char c : s.toCharArray()) {
-            if (!st.isEmpty() && st.peek() == c) {
-                st.pop();
+
+            if (stack.length() > 0 && stack.charAt(stack.length() - 1) == c) {
+                stack.deleteCharAt(stack.length() - 1);
             } else {
-                st.push(c);
+                stack.append(c);
             }
+
         }
 
-        StringBuilder sb = new StringBuilder();
-        while (!st.isEmpty()) {
-            sb.append(st.pop());
-        }
-
-        return sb.reverse().toString();
+        return stack.toString();
     }
 }
