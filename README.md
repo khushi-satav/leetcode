@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/khushi-satav/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/khushi-satav/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/khushi-satav/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/khushi-satav/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/khushi-satav/leetcode/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/khushi-satav/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2595-number-of-even-and-odd-bits](https://github.com/khushi-satav/leetcode/tree/master/2595-number-of-even-and-odd-bits) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/khushi-satav/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/khushi-satav/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khushi-satav/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/khushi-satav/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/khushi-satav/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Binary Search
 |  |
 | ------- |
