@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/khushi-satav/leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/khushi-satav/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/khushi-satav/leetcode/tree/master/0792-binary-search) |
+| [0877-stone-game](https://github.com/khushi-satav/leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/khushi-satav/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/khushi-satav/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/khushi-satav/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/khushi-satav/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushi-satav/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/khushi-satav/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/khushi-satav/leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/khushi-satav/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/khushi-satav/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/khushi-satav/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/khushi-satav/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/khushi-satav/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/khushi-satav/leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/khushi-satav/leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/khushi-satav/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Simulation
 |  |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/khushi-satav/leetcode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/khushi-satav/leetcode/tree/master/0877-stone-game) |
 ## Number Theory
 |  |
 | ------- |
