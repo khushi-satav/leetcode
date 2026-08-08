@@ -6,23 +6,19 @@ class Solution {
         while (i < j) {
             char left = s.charAt(i);
             char right = s.charAt(j);
-
-            if (!Character.isLetterOrDigit(left)) {
+            if(!Character.isLetterOrDigit(left)){
                 i++;
                 continue;
-            }
-
-            if (!Character.isLetterOrDigit(right)) {
+            }if(!Character.isLetterOrDigit(right)){
                 j--;
                 continue;
             }
-
-            if (Character.toLowerCase(left) != Character.toLowerCase(right)) {
+            if(Character.toLowerCase(left)!=Character.toLowerCase(right)){
                 return false;
             }
-
             i++;
             j--;
+
         }
 
         return true;
