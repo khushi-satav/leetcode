@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/khushi-satav/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/khushi-satav/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/khushi-satav/leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/khushi-satav/leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/khushi-satav/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/khushi-satav/leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/khushi-satav/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/khushi-satav/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/khushi-satav/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/khushi-satav/leetcode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/khushi-satav/leetcode/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/khushi-satav/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushi-satav/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/khushi-satav/leetcode/tree/master/0977-squares-of-a-sorted-array) |
