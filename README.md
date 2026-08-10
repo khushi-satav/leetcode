@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/khushi-satav/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/khushi-satav/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/khushi-satav/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/khushi-satav/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/khushi-satav/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/khushi-satav/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khushi-satav/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/khushi-satav/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/khushi-satav/leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/khushi-satav/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/khushi-satav/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/khushi-satav/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/khushi-satav/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khushi-satav/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
