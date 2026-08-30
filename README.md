@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/khushi-satav/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/khushi-satav/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/khushi-satav/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0771-jewels-and-stones](https://github.com/khushi-satav/leetcode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/khushi-satav/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/khushi-satav/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/khushi-satav/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/khushi-satav/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/khushi-satav/leetcode/tree/master/0709-to-lower-case) |
 | [0742-to-lower-case](https://github.com/khushi-satav/leetcode/tree/master/0742-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/khushi-satav/leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/khushi-satav/leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/khushi-satav/leetcode/tree/master/0812-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/khushi-satav/leetcode/tree/master/0844-backspace-string-compare) |
