@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/khushi-satav/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/khushi-satav/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2418-sort-the-people](https://github.com/khushi-satav/leetcode/tree/master/2418-sort-the-people) |
+| [3407-substring-matching-pattern](https://github.com/khushi-satav/leetcode/tree/master/3407-substring-matching-pattern) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/khushi-satav/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Prefix Sum
 |  |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushi-satav/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/khushi-satav/leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/khushi-satav/leetcode/tree/master/0812-rotate-string) |
+| [3407-substring-matching-pattern](https://github.com/khushi-satav/leetcode/tree/master/3407-substring-matching-pattern) |
 ## Sliding Window
 |  |
 | ------- |
