@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/khushi-satav/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/khushi-satav/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/khushi-satav/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/khushi-satav/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2418-sort-the-people](https://github.com/khushi-satav/leetcode/tree/master/2418-sort-the-people) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/khushi-satav/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Prefix Sum
