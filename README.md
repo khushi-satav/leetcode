@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/khushi-satav/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/khushi-satav/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/khushi-satav/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/khushi-satav/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/khushi-satav/leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/khushi-satav/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/khushi-satav/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/khushi-satav/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/khushi-satav/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/khushi-satav/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/khushi-satav/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/khushi-satav/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2595-number-of-even-and-odd-bits](https://github.com/khushi-satav/leetcode/tree/master/2595-number-of-even-and-odd-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/khushi-satav/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushi-satav/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/khushi-satav/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/khushi-satav/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/khushi-satav/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/khushi-satav/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/khushi-satav/leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/khushi-satav/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/khushi-satav/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/khushi-satav/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/khushi-satav/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/khushi-satav/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/khushi-satav/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/khushi-satav/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/khushi-satav/leetcode/tree/master/0443-string-compression) |
@@ -553,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/khushi-satav/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/khushi-satav/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -565,4 +570,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/khushi-satav/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/khushi-satav/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
