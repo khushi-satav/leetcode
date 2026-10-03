@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/khushi-satav/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/khushi-satav/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2418-sort-the-people](https://github.com/khushi-satav/leetcode/tree/master/2418-sort-the-people) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/khushi-satav/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/khushi-satav/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/khushi-satav/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/khushi-satav/leetcode/tree/master/3731-find-missing-elements) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/khushi-satav/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/khushi-satav/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2418-sort-the-people](https://github.com/khushi-satav/leetcode/tree/master/2418-sort-the-people) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/khushi-satav/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/khushi-satav/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/khushi-satav/leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/khushi-satav/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1512-number-of-good-pairs](https://github.com/khushi-satav/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/khushi-satav/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/khushi-satav/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Recursion
 |  |
 | ------- |
