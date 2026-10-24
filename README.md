@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/khushi-satav/leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/khushi-satav/leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/khushi-satav/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/khushi-satav/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/khushi-satav/leetcode/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/khushi-satav/leetcode/tree/master/1729-find-followers-count) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/khushi-satav/leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
